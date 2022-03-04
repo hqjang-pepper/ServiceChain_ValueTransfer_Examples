@@ -1,0 +1,14 @@
+{
+    "scn" : {
+        "ip": "127.0.0.1",
+        "port": "7551",
+        "key": "0x72ead5fbf19cea1ac0a4518215fc91ef8346882c447d24a2e0b697168f3c8b80",
+        "operator": "0x2cc4c10508bd45c90f90434d20c8df2d6e2f507e"
+    },
+    "en" : {
+        "ip": "127.0.0.1",
+        "port": "8551",
+        "key": "0x1f675a7b7f4c8a5a97063c0ccfae64cbb1f444091ec3218c8ab4ff8d16fbb015",
+        "operator": "0x9ea62bf2bc4f0e073f716f7334af42f8cf4afecf"
+    }
+}
